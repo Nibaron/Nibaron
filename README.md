@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nibaron_Kumar_Das
-- 👀 I’m interested in Machine Learning, Data science, app and web development.
-- 🌱 I’m currently learning Machine learning and Deep Learning.
-- 💞️ I’m looking to collaborate on Machine Learning Thesis work.
+- 👀 I’m interested in Front End, back End and IOS development.
+- 🌱 I’m currently learning ReactJS and Restful API.
+- 💞️ I’m looking to entry level job opputunities in Dhaka.
 - 📫 Contact me: https://www.linkedin.com/in/nibaron-ruet/
