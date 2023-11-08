@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nibaron Kumar Das</h1>
-<h3 align="center">A passionate Web Developer from Dhaka,Bangladesh</h3>
+<h3 align="center">A passionate React Developer from Dhaka,Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Nibaron/portfolio/assets/36547410/504f7fef-059b-4b96-bb65-09979e789940">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nibaron&label=Profile%20views&color=0e75b6&style=flat" alt="nibaron" /> </p>
 
-- 🌱 I’m currently learning **React JS, Tailwind CSS & ANT Design**
+- 🌱 I’m currently working with **React JS, Tailwind CSS & ANT Design**
 
-- 👨‍💻 All of my projects are available at [https://nibaron.vercel.app/](https://nibaron.vercel.app/)
+- 👨‍💻 All of my projects are available at [Nibaron.vercel Webpage](https://nibaron.vercel.app/)
 
-- 📫 How to reach me **nibaronkumar02&gmail.com**
+- 📫 Mail me at [nibaronkumar02@gmail.com](mailto:nibaronkumar02@gmail.com)
 
-- 📄 Know about Coding experiences [https://leetcode.com/Nibaron_RUET/](https://leetcode.com/Nibaron_RUET/)
+- 📄 Know about Coding experiences [Nibaron_RUET](https://leetcode.com/Nibaron_RUET/)
 
-- ⚡ Fun fact **Lazy Coder**
+- ⚡ Fun fact **LEET Coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
